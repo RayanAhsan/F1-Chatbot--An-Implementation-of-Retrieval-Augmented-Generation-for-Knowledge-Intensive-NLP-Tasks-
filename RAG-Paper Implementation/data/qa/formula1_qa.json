@@ -1,0 +1,79 @@
+[
+  {
+    "question": "When was the first Formula 1 World Championship held?",
+    "answer": ["1950"]
+  },
+  {
+    "question": "Which team did Michael Schumacher win his first championship with?",
+    "answer": ["Benetton"]
+  },
+  {
+    "question": "Who won the 2021 Formula 1 World Championship?",
+    "answer": ["Max Verstappen"]
+  },
+  {
+    "question": "Which country hosts the Monaco Grand Prix?",
+    "answer": ["Monaco"]
+  },
+  {
+    "question": "Who is the most successful Formula 1 driver in terms of championships?",
+    "answer": ["Lewis Hamilton", "Michael Schumacher"]
+  },
+  {
+    "question": "Which year did Ayrton Senna win his first Formula 1 World Championship?",
+    "answer": ["1988"]
+  },
+  {
+    "question": "What type of race tracks does Formula 1 use?",
+    "answer": ["Street circuits", "Permanent race tracks"]
+  },
+  {
+    "question": "Which company supplies tires to Formula 1 as of 2023?",
+    "answer": ["Pirelli"]
+  },
+  {
+    "question": "What is the name of the Formula 1 governing body?",
+    "answer": ["FIA"]
+  },
+  {
+    "question": "Which city hosts the Italian Grand Prix?",
+    "answer": ["Monza"]
+  },
+  {
+    "question": "What type of gearboxes do modern Formula 1 cars use?",
+    "answer": ["Semi-automatic sequential gearboxes"]
+  },
+  {
+    "question": "In the late 1950s. what replaced nylon tires in Formula 1?",
+    "answer": ["Cotton Fabric"]
+  },
+{
+    "question": "When were Slick tires first introduced in Formula 1?",
+    "answer": ["1971"]
+},
+{
+    "question": "Which metal alloy, along with beryllium, was used to reduce engine weight?",
+    "answer": ["Titanium"]
+},
+{
+    "question": "Which organization banned the use of advanced metal alloys in the late 1990s?",
+    "answer": ["FIA"]
+},
+{
+    "question": "What engine configuration replaced the V10s in 2006?",
+    "answer": ["V8"]
+},
+{
+    "question": "What is the maximum number of valves per cylinder allowed since 2006?",
+    "answer": ["4"]
+},
+{
+    "question": "What year were grooved tyres introduced?",
+    "answer": ["1998"]
+},
+{
+    "question": "What type of fuel is used in Formula 1 cars?",
+    "answer": ["Petrol"]
+}
+
+]

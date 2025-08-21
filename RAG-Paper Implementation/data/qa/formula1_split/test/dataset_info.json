@@ -1,0 +1,45 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 1483,
+  "description": "",
+  "download_checksums": {
+    "C:/Users/narab/OneDrive/sokaramy/Rayan/Side Projects/RAG-Paper Implementation/data/qa/formula1_qa.json": {
+      "num_bytes": 2220,
+      "checksum": null
+    }
+  },
+  "download_size": 2220,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3703,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1483,
+      "num_examples": 19,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
